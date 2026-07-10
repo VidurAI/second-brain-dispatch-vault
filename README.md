@@ -11,6 +11,7 @@ The essays are free and prove each kit works. The kits are free too — [subscri
 | [001 — Second Brain Pipeline](kit-001-second-brain-pipeline/) | Turn a creator's full video catalog into a queryable, distilled second brain (NotebookLM + rigid distillation template) in an afternoon | *I turned 58 YouTube videos into a second brain in one afternoon* |
 | [002 — Agent Fan-Out](kit-002-agent-fan-out/) | Process N documents in parallel with AI agents whose output you can trust — the honest-output prompt rules + batching scaffold | *The fan-out: how I distilled 58 transcripts without reading one* |
 | [003 — Stat Audit](kit-003-stat-audit/) | Fact-check any trusted source's statistics to primary sources in one evening — four-verdict rubric + the STRIP distortion checklist | *I fact-checked 15 stats from a 1.2M-subscriber creator. Six failed.* |
+| [004 — Style Decompiler](kit-004-style-decompiler/) | Extract any writer's craft blueprint from their catalog, then wire it into a writer + adversarial-critic loop that disciplines your own drafts | *I decompiled a writer's style into one file. It rewrote mine.* |
 
 ## How to use a kit
 
