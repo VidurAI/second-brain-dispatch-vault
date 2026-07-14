@@ -24,4 +24,11 @@ Each kit's README is a 15-minute setup runbook. Prerequisites are honest (most n
 2. **Honest failure modes** — templates force AI to flag what it couldn't verify instead of sounding confident.
 3. **Tested by us first** — each kit is our own production tooling; dogfooding is the QA.
 
-Found a problem, or ran an audit that turned up something wild? Open an issue here or reply to any Dispatch email — the best findings get featured (credited) in future issues.
+## Publishing from these kits?
+
+Do it — that's what they're for ([CC BY 4.0](LICENSE.md)). Two asks:
+
+1. **Credit the source.** One line: *"Built with a kit from [The Second Brain Dispatch](https://hemantpatil.substack.com)."* The first reader who did this got his audit featured in issue #5's topic queue.
+2. **Tell me what you found.** Reply to any Dispatch email or open an issue here — the best findings get featured (credited) in future issues. This has already happened once; it will happen again.
+
+Found a problem, or ran an audit that turned up something wild? Same channels — issue here or reply to any Dispatch email.
