@@ -13,6 +13,8 @@ The essays are free and prove each kit works. The kits are free too — [subscri
 | [003 — Stat Audit](kit-003-stat-audit/) | Fact-check any trusted source's statistics to primary sources in one evening — four-verdict rubric + the STRIP distortion checklist | *I fact-checked 15 stats from a 1.2M-subscriber creator. Six failed.* |
 | [004 — Style Decompiler](kit-004-style-decompiler/) | Extract any writer's craft blueprint from their catalog, then wire it into a writer + adversarial-critic loop that disciplines your own drafts | *I decompiled a writer's style into one file. It rewrote mine.* |
 | [005 — Plagiarism Firewall](kit-005-plagiarism-firewall/) | Close the consumption→creation loop honestly — precommitment honesty rules, attribution decision tree, verify-every-digit workflow, cold-explain drafting runbook | *My second brain publishes now. Job one: don't let it plagiarize.* |
+| [006 — Disagreement Mining](kit-006-disagreement-mining/) | Load rival thinkers into one grounded-source notebook and mine where they genuinely contradict — the collision prompt with its rigor clause, source-picking checklist, implied-user worksheet | *I made Newport, Forte, and Allen argue in one notebook* |
+| [007 — Scheduled-Sync System](kit-007-scheduled-sync/) | Keep a second brain alive on a schedule instead of willpower — feed + forced-use job templates, the graveyard-audit script, 4D processing checklist, recurring-review calendar template | *Most second brains are graveyards. Mine runs on cron.* |
 
 ## How to use a kit
 
